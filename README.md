@@ -1,5 +1,6 @@
 # Rakta
 Rakta is a blood bank connector app that facilitates the connection between blood donors and receivers, allowing them to find each other quickly and easily.
+<img src="/resources_pr/log_pr_bg_removed.png>
 
 # More About Rakta
 Rakta is a powerful blood bank connector app designed to bridge the gap between blood donors and receivers. It serves as a platform to connect donors with nearby recievers and makes it effective and flexible.
